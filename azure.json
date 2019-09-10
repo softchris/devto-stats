@@ -1,0 +1,17 @@
+{
+  "hosting": [
+    {
+      "app": {
+        "project": "DevTo",
+        "target": "build",
+        "configuration": "production",
+        "path": "dist/DevTo"
+      },
+      "azureHosting": {
+        "subscription": "24e93004-68e0-4f52-8d40-0fe547dc3fe1",
+        "resourceGroupName": "DevTo-static-deploy",
+        "account": "devtostatic"
+      }
+    }
+  ]
+}

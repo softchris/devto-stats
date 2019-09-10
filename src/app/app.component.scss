@@ -1,0 +1,12 @@
+.article {
+  padding: 20px;
+  width: 200px;
+  box-shadow: 0 0 10px grey;
+  margin: 10px;
+  
+}
+
+.articles {
+  display: flex;
+  flex-wrap: wrap;
+}
